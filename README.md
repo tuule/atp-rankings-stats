@@ -12,7 +12,9 @@ Link to the [dataset](https://github.com/serve-and-volley/atp-world-tour-tennis-
 Instructions:
 
 If you have Python 3 installed then run:
-    $ python3 -m venv .venv
-    $ source .venv/bin/activate
-    $ pip install -r requirements.txt
-    $ jupyter notebook
+```
+$ python3 -m venv .venv
+$ source .venv/bin/activate
+$ pip install -r requirements.txt
+$ jupyter notebook
+```
