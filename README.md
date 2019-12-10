@@ -25,4 +25,4 @@ $ jupyter notebook
 If you want to shut down the Jupyter Notebook, go to File -> Close and Halt. To shut down the notebook server, go back to the terminal and type Ctrl C -> y (for yes).
 
 
-Another great option is to use [JupyterLab] (https://github.com/jupyterlab/jupyterlab). You can find the installation guide if you scroll down on their GitHub page. After you have installed JupyterLab, you can launch it by typing jupyter lab in the terminal. When you are done, go to File -> Close and Shutdown Notebook, to close down the notebook and the JupyterLab server.
+Another great option is to use [JupyterLab](https://github.com/jupyterlab/jupyterlab). You can find the installation guide if you scroll down on their GitHub page. After you have installed JupyterLab, you can launch it by typing in 'jupyter lab' in the terminal. When you are done, go to File -> Close and Shutdown Notebook, to close down the notebook and the JupyterLab server.
