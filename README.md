@@ -11,7 +11,7 @@ Link to the [dataset](https://github.com/serve-and-volley/atp-world-tour-tennis-
 
 To view interactive content or to modify elements within the notebook, you must first clone or download the repository then run the notebook.
 
-To run a Jupyter Notebook in a command line type in 'jupiter notebook'. It is going to print out a bunch of logging information, but it will also open up a browser into the Jupyter Notebook. And although it opens up in a web browser, it is not really working across the internet. It is a program that is running on your computer that just happens to be rendered through a web browser.
+To run a Jupyter Notebook in a command line type in 'jupyter notebook'. It is going to print out a bunch of logging information, but it will also open up a browser into the Jupyter Notebook. And although it opens up in a web browser, it is not really working across the internet. It is a program that is running on your computer that just happens to be rendered through a web browser.
 
 
 If you have Python 3 installed then run:
