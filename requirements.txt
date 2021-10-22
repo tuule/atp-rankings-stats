@@ -11,7 +11,7 @@ ipython==7.9.0
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi==0.15.1
-Jinja2==2.10.3
+jinja2>=2.11.3
 jsonschema==3.1.1
 jupyter==1.0.0
 jupyter-client==5.3.4
@@ -22,7 +22,7 @@ mistune==0.8.4
 more-itertools==7.2.0
 nbconvert==5.6.1
 nbformat==4.4.0
-notebook==6.0.2
+notebook>=6.4.1
 numpy==1.17.4
 pandas==0.25.3
 pandocfilters==1.4.2
@@ -32,7 +32,7 @@ pickleshare==0.7.5
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
 ptyprocess==0.6.0
-Pygments==2.4.2
+Pygments>=2.7.4
 pyrsistent==0.15.5
 python-dateutil==2.8.1
 pytz==2019.3
